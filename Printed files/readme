@@ -1,3 +1,5 @@
 Files that need to be 3D printed
 Recommended print material: ABS
 Recommended print settings: 0.04mm nozzle, 4 walls, 40% infil, 3d honeycomb or gyroid infil
+
+Mesh files are already oriented correctly for printing, step files are not
